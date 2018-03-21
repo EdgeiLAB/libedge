@@ -11,7 +11,6 @@
 #define NOTIFY_SUB_NAME   	"myNotification"
 #define BUF_SIZE_SMALL    	128
 #define BUF_SIZE_LARGE    	1024
-#define MQTT_MAX_PACKET_SIZE  BUF_SIZE_LARGE
 #define MQTT_BROKER_PORT  	1883
 
 #define MQTTCLIENT_SUCCESS  0
